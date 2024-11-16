@@ -3,11 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>{{site.title}}</title>
+    <link rel="stylesheet" href="/assets/css/main.css" />
   </head>
   <body>
-    {% include myheader.html me="fz" %} 
-    {{content}}
-    <h1>Footer</h1>
+    {% include myheader.html %} {{content}} {% include myfooter.html %}
   </body>
 </html>
