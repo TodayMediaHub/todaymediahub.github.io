@@ -1,6 +1,7 @@
 Receiptify is a popular online tool that generates a visually appealing Spotify receipt, showcasing your top artists, songs, and genres for a specific time period. It's a fun and creative way to relive your musical journey and share it with others.
 
-How to Use Receiptify:
+<h>How to Use Receiptify:</h2>
+
 Visit the Receiptify Website: Go to the official Receiptify website.
 Connect Your Spotify Account: You'll need to log in to your Spotify account to grant Receiptify access to your listening history.
 Choose a Time Period: Select the time frame for which you want to generate a receipt (e.g., last year, last month).
